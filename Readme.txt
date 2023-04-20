@@ -5,7 +5,7 @@ SCREENSHOTS
 
 <p align="center">
  
-  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Screenshot from 2023-04-20 12-09-04.png" width="300" alt="accessibility text">
+  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Okdonatho1.png" width="300" alt="accessibility text">
 
 </p>
 
