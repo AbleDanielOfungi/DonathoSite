@@ -33,7 +33,7 @@ SCREENSHOTS
 
 <p align="center">
  
-  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Okdonatho1.png" width="800" alt="accessibility text">
+  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Okdonatho4.png" width="800" alt="accessibility text">
 
 </p>
 
