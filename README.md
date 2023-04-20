@@ -5,7 +5,7 @@
 This website is a multipurpose website that includes many business sectors merged under one roof
 SCREENSHOTS
 
-1. Testimonials section
+1. Home Page
 
 <p align="center">
  
@@ -29,7 +29,7 @@ SCREENSHOTS
 
 </p>
 
-4.
+4.Testimonials Section
 
 <p align="center">
  
