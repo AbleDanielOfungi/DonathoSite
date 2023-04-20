@@ -16,7 +16,7 @@ SCREENSHOTS
 2.  
 <p align="center">
  
-  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Screenshot from 2023-04-20 12-09-29.png" width="300" alt="accessibility text">
+  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Screenshot from 2023-04-20 12-09-29.png" width="800" alt="accessibility text">
 
 </p>
 
@@ -25,6 +25,15 @@ SCREENSHOTS
 
 <p align="center">
  
-  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Screenshot from 2023-04-20 12-10-01.png" width="300" alt="accessibility text">
+  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Screenshot from 2023-04-20 12-10-01.png" width="800" alt="accessibility text">
 
 </p>
+
+4.
+
+<p align="center">
+ 
+  <img src="https://github.com/AbleDanielOfungi/DonathoSite/blob/main/Okdonatho1.png" width="800" alt="accessibility text">
+
+</p>
+
